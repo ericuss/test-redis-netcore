@@ -1,0 +1,9 @@
+C:\Projects\Tokiota\compose-api-redis\WebApplication1\WebApplication1\bin\Debug\netcoreapp1.1\WebApplication1.deps.json
+C:\Projects\Tokiota\compose-api-redis\WebApplication1\WebApplication1\bin\Debug\netcoreapp1.1\WebApplication1.runtimeconfig.json
+C:\Projects\Tokiota\compose-api-redis\WebApplication1\WebApplication1\bin\Debug\netcoreapp1.1\WebApplication1.runtimeconfig.dev.json
+C:\Projects\Tokiota\compose-api-redis\WebApplication1\WebApplication1\bin\Debug\netcoreapp1.1\WebApplication1.dll
+C:\Projects\Tokiota\compose-api-redis\WebApplication1\WebApplication1\bin\Debug\netcoreapp1.1\WebApplication1.pdb
+C:\Projects\Tokiota\compose-api-redis\WebApplication1\WebApplication1\obj\Debug\netcoreapp1.1\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Projects\Tokiota\compose-api-redis\WebApplication1\WebApplication1\obj\Debug\netcoreapp1.1\WebApplication1.AssemblyInfo.cs
+C:\Projects\Tokiota\compose-api-redis\WebApplication1\WebApplication1\obj\Debug\netcoreapp1.1\WebApplication1.dll
+C:\Projects\Tokiota\compose-api-redis\WebApplication1\WebApplication1\obj\Debug\netcoreapp1.1\WebApplication1.pdb
